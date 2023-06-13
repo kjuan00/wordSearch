@@ -2,7 +2,7 @@ import java.io.File
 
 /************************************************************
  *  Name:         Alonzo Silvaz
- *  Date:         6/15/2021
+ *  Date:         6/15/2022
  *  Assignment:   WordSearch Generator
  *  Class Number: 283
  *  Description:  Program that generates a Puzzle and a Key file
